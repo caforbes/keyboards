@@ -106,7 +106,7 @@ c Language
 + [RALT K_0] > '»'
 + [RALT K_9] > '«'
 + [SHIFT K_BKQUOTE] > U+2018
-+ [K_BKQUOTE] > '·'
++ [K_BKQUOTE] > '·' c supposed to have a comment
                 
 nomatch > use(x)                            
 
