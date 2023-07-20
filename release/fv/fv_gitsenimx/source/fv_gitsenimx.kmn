@@ -62,7 +62,7 @@ store(&LAYOUTFILE) "fv_gitsenimx.keyman-touch-layout"
 + [T_S] > 's'
 + [T_D] > 'd'
 + [T_F] > 'f'
-+ [T_G] > 'g̱'
++ [T_G] > 'g'
 + [T_H] > 'h'
 + [T_J] > 'j'
 + [T_K] > 'k'
@@ -72,7 +72,7 @@ store(&LAYOUTFILE) "fv_gitsenimx.keyman-touch-layout"
 + [T_Z] > 'x̱'
 + [T_X] > 'x'
 + [T_C_0] > '!'
-+ [T_C] > '?'
++ [T_C] > 'g̱'
 + [T_V_0] > ','
 + [T_V] > '.'
 + [T_B] > 'b'
@@ -95,9 +95,7 @@ c Language
 
 + [SHIFT RALT K_BKQUOTE] > '~'
 + [RALT K_BKQUOTE] > '`'
-+ [K_QUOTE] > U+2019
 + [K_COLON] > '̱'           c combining mau
-+ [RALT K_QUOTE] > U+0027
 + [RALT K_COLON] > ';'
 + [RALT K_RBRKT] > '}'
 + [RALT K_LBRKT] > '{'
